@@ -1,4 +1,4 @@
-Copyright (c) [Year] [Your Name or Organization]
+Copyright (c) 2025 Simon HM Tsang
 
 All rights reserved.
 
